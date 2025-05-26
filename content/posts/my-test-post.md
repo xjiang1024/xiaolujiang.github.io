@@ -1,12 +1,12 @@
 ---
-date: '{{ .Date }}'
+date: '2025-05-25T22:40:27-04:00'
 draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'My Test Post'
 
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
-author: "Xiaolu Jiang"
+author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
